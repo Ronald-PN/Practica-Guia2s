@@ -1,0 +1,6 @@
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia2_ejercicio1\PracticaGuia2_ejercicio1\bin\Debug\PracticaGuia2_ejercicio1.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia2_ejercicio1\PracticaGuia2_ejercicio1\bin\Debug\PracticaGuia2_ejercicio1.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia2_ejercicio1\PracticaGuia2_ejercicio1\bin\Debug\PracticaGuia2_ejercicio1.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia2_ejercicio1\PracticaGuia2_ejercicio1\obj\Debug\PracticaGuia2_ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia2_ejercicio1\PracticaGuia2_ejercicio1\obj\Debug\PracticaGuia2_ejercicio1.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\PracticaGuia2_ejercicio1\PracticaGuia2_ejercicio1\obj\Debug\PracticaGuia2_ejercicio1.pdb
